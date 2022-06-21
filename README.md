@@ -2,6 +2,8 @@
 
 ### With Colaboratory, Drive, Transfer Learning, and Data Augmentation
 
+![alt text](https://raw.githubusercontent.com/AdamPeetz/deeplearningpneumonia/main/Pneumonia.jpg)
+
 #### Summary
 Pneumonia is a lung infection that can be caused by a virus or bacteria growing in the lungs. A common way to screen for pneumonia is to analyze chest x-rays for signs of the infection. On an x-ray, pneumonia will present itself as little white dots in the lungs called infiltrates. This distinct visual feature of pneumonia makes it a candidate for detection by convolutional neural networks. If a visual difference exists between normal lungs and infected lungs, then it should be detectable by a convolutional neural network.   <br>
 
